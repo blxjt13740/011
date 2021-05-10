@@ -57,6 +57,7 @@ social:
 #email: ""
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+自2018/03月起本店新增日韓平價服飾和流行鞋款,與韓國東大門及日本同步流行款~ 🎀Emma店裡的商品都是部份現貨+預購,因為商品必須從各地搭飛機來到,所以需要等待7-10天,可以接受的買家再下單,貨到會飛快✈的寄送到您手上. 🎀下單即表示百分百同意賣場規則
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+
+本賣場是部份現貨加預購,倉庫若有現貨儘量會在24H為您寄出,著 是需要預購也是大約7-10大左右可以寄出喔!
